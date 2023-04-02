@@ -1,0 +1,16 @@
+{
+  "name": "taryaoui/salesforce-api",
+  "description": "An unofficial PHP SDK for salesforce",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Taryaoui Rachid",
+      "email": "taryaoui@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.0",
+    "ext-json": "*"
+  }
+}
