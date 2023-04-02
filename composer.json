@@ -9,6 +9,11 @@
       "email": "taryaoui@gmail.com"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "Taryaoui\\SalesforceApi\\": ""
+    }
+  },
   "require": {
     "guzzlehttp/guzzle": "^7.0",
     "ext-json": "*"
